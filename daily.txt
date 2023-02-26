@@ -1,0 +1,8 @@
+--> SystemSecurity2 - EAM
+
+-->Medical & Pharmacy Claims Reports
+
+Medical --> missing fields in Provider and claims
+
+
+CommunityFirst pkg --> change conn to cfis2k17
